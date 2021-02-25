@@ -1,3 +1,3 @@
-Ідея - замінити рядок фільтрації і сортування над товарною сіткою в категорії/виробнику/пошуку на єдиний модуль.
-
-Статус: сирий/не робочий/відкладений
+The idea is to replace the filtering and sorting line above the 
+product grid in the category / manufacturer / search with a single module.
+Status: raw / not working / delayed 
